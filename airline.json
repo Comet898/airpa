@@ -1,0 +1,24 @@
+{
+  "name": "Custom Community Airline",
+  "color": "dodgerblue",
+  "bgcolor": "#111111",
+  "aircrafts": {
+    "10": {
+      "name": "Airbus a380-800",
+      "labels": [
+        "Specular shader",
+        "Texture"
+      ],
+      "liveries": [
+        {
+          "name": "Custom Community Livery",
+          "texture": [
+            "https://geo-fs.com",
+            "https://i.ibb.co/xSBkYjnv/A380-UV-Map.png"
+          ],
+          "credits": "Community Designer"
+        }
+      ]
+    }
+  }
+}
